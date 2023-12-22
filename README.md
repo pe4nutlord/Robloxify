@@ -55,7 +55,7 @@ This extension is brought to you by pe4nutlord and contributions from the open-s
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.txt).
 
 ---
 
