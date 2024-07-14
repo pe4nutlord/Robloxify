@@ -1,3 +1,5 @@
+I'm lazy so chatgpt wrote the following :
+
 # Robloxify Extension
 
 Robloxify is a browser extension that enhances the Roblox experience by introducing a variety of features to customize and improve your interaction with the platform.
@@ -59,4 +61,4 @@ This project is licensed under the [MIT License](LICENSE.txt).
 
 ---
 
-"Where every corner gets a curve!" - peanut <3
+
